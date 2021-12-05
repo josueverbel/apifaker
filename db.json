@@ -2,13 +2,13 @@
    "apps": [ {
       "id": 1,
       "name": "Sudoku",
-      "version":"1.0.0",
+      "version":"1.0.0"
    },
     {
       "id": 2,
       "name": "Triqui",
-      "version":"1.0.0",
-   },],
+      "version":"1.0.0"
+   }]
  
  
 }
