@@ -3,33 +3,6 @@
       "id": 1,
       "name": "Sudoku",
    }],
-  "clients": [
-    {
-      "id": 2222,
-      "fullname": "josue verbel",
-      "firstname": "josue",
-      "lastname": "vernel",
-      "email": "josue@gmail.com",
-      "phone": "3017557575",
-      "is_preferential": true,
-      "is_preferential_to": "2021-08-31",
-      "identification_number": 2222,
-      "identificationtype_id": 1,
-      "clienttype_id": 1
-    },
-    {
-      "id": 5555,
-      "fullname": "Elkin Corro",
-      "firstname": "Elkin",
-      "lastname": "Corro",
-      "email": "Elkin@kipersoft.com",
-      "phone": "3017557575",
-      "is_preferential": true,
-      "is_preferential_to": "2021-12-31",
-      "identification_number": 5555,
-      "identificationtype_id": 1,
-      "clienttype_id": 1
-    }
-  ]
+ 
  
 }
