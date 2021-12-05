@@ -1,5 +1,8 @@
 {
-  
+   "apps": [ {
+      "id": 1,
+      "name": "Sudoku",
+   }],
   "clients": [
     {
       "id": 2222,
