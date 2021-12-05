@@ -1,14 +1,16 @@
 {
-   "clients": [ {
-      "id": 1,
+   "clients": [
+      {
+      "id": "1",
       "name": "Sudoku",
       "version":"1.0.0"
-   },
-    {
-      "id": 2,
+      },
+      {
+      "id": "2",
       "name": "Triqui",
       "version":"1.0.0"
-   }]
+   }
+   ]
  
  
 }
