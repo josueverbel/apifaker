@@ -4,7 +4,14 @@
       "id": "1",
       "name": "Sudoku",
       "version":"1.0.5",
-       "message":"<h1>Hola mundo</h1>"
+       "message":"<h1>Hola mundo</h1>",
+        "notifications":[
+           {
+              "id":1,
+              "title":"titulo",
+              "body" : "Hola tenemos una nueva actualizacion",
+              "icon":""
+        ]
       },
       {
       "id": "2",
