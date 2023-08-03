@@ -7,10 +7,13 @@
       "CodeDialing.menuName.codeList.grid.date" : "Fecha",
       "CodeDialing.menuName.codeList.grid.gtinType" : "Tipo de GTIN",
       "CodeDialing.menuName.codeList.grid.gtin" : "GTIN",
-        "CodeDialing.menuName.codeList.grid.status" : "Estado",
-        "CodeDialing.menuName.codeList.grid.hierarchy" : "Jerarquia",
-        "CodeDialing.menuName.codeList.grid.packingUnit" : "Unidad de empaque",
-        "CodeDialing.menuName.codeList.grid.edit" : "Modificar"
+      "CodeDialing.menuName.codeList.grid.status" : "Estado",
+      "CodeDialing.menuName.codeList.grid.hierarchy" : "Jerarquia",
+      "CodeDialing.menuName.codeList.grid.packingUnit" : "Unidad de empaque",
+      "CodeDialing.menuName.codeList.grid.edit" : "Modificar"
+        "CodeDialing.menuName.codeList.Button.massive" : "Asignar Masivo",
+      "CodeDialing.menuName.codeList.Button.individual" : "Asignar Individual",
+      "CodeDialing.menuName.codeList.Button.download" : "Descargar Info"
       },
       
       {
