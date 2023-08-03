@@ -2,12 +2,22 @@
   
    "clients": [
       {
-         "id" : "0",
-          "CodeDialing.menuName.codeList.title": "Listado de codigos",
+      "id": "1",
+      "name": "Sudoku",
+      "version":"1.1.7",
+       "message":"<h1>Hola mundo</h1>",
+        "notifications":[
+           {
+              "id":1,
+              "title":"titulo",
+              "body" : "Hola tenemos una nueva actualizacion",
+              "icon":""
+           }
+        ]
       },
       
       {
-      "id": "1",
+      "id": "4",
       "name": "Sudoku",
       "version":"1.1.7",
        "message":"<h1>Hola mundo</h1>",
