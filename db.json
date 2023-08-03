@@ -1,6 +1,11 @@
 {
-   "CodeDialing.menuName.codeList.title": "Listado de codigos",
+  
    "clients": [
+      {
+         "id" : "0",
+          "CodeDialing.menuName.codeList.title": "Listado de codigos",
+      },
+      
       {
       "id": "1",
       "name": "Sudoku",
