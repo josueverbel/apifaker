@@ -19,7 +19,8 @@
       "CodeDialing.codeList.formFilter.gtinType" : "Selecciona Tipo de Gtin",
       "CodeDialing.codeList.formFilter.gtin" : "Digite un Gtin",
       "CodeDialing.codeList.formFilter.status" : "Seleccione un estado",
-      "CodeDialing.codeList.formFilter.hierarchy" : "Seleccione una jerarquia"
+      "CodeDialing.codeList.formFilter.hierarchy" : "Seleccione una jerarquia",
+      "CodeDialing.codeList.Button.filter" : "Filtrar"
       },
       
       {
