@@ -107,7 +107,16 @@
     "CodeDialing.codeList.formFilter.gtin": "Digite un Gtin",
     "CodeDialing.codeList.formFilter.status": "Seleccione un estado",
     "CodeDialing.codeList.formFilter.hierarchy": "Seleccione una jerarquía",
-    "CodeDialing.codeList.Button.filter": "Filtrar"
+    "CodeDialing.codeList.Button.filter": "Filtrar",
+
+    "CodeDialing.codeList.PackingUnitList.title": "Administrar unidad de empaque",
+    "CodeDialing.codeList.PackingUnitList.gtin": "GTIN",
+    "CodeDialing.codeList.PackingUnitList.form.labelDescription": "Descripción larga",
+    "CodeDialing.codeList.PackingUnitList.form.labelQuantity": "Cantidad de unidades",
+    "CodeDialing.codeList.PackingUnitList.form.btnSave": "Guardar",
+    "CodeDialing.codeList.PackingUnitList.grid.labelDescription": "Descripción larga",
+    "CodeDialing.codeList.PackingUnitList.grid.labelQuantity": "Cantidad de unidades",
+    "CodeDialing.codeList.PackingUnitList.grid.labelEdit": "Modificar",
       },
       
       {
