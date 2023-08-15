@@ -123,7 +123,24 @@
     "CodeDialing.codeList./massiveDialing.subTitle": "Asignación de códigos de forma  masiva en este modulo",
     "CodeDialing.codeList./massiveDialing.btnDownload": "Descargar plantilla de excel",
     "CodeDialing.codeList./massiveDialing.btnUploap": "Cargar plantilla de excel",
-
+    
+    "SolutionCenter.help.title" : "Centro de soluciones",
+    "SolutionCenter.help.description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "SolutionCenter.help.search" : "Buscar tema",
+    "SolutionCenter.help.videotutorial" : "Video tutoriales",
+    "SolutionCenter.help.formations" : "Formaciones",
+    "SolutionCenter.help.acordion.title1" : "¿Como asignar varios codigos?",
+    "SolutionCenter.help.acordion.title2" :  "¿Como asignar un solo codigo?",
+    "SolutionCenter.help.acordion.title3" :  "¿Como administrar mis unidades de empaque?",
+    "SolutionCenter.help.acordion.title4" :  "¿Que tipos de codigo hay y para que sirven?",
+    "SolutionCenter.help.acordion.title5" :  "¿Que formato debe tener la imagen de mi producto?",
+    "SolutionCenter.help.acordion.description1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "SolutionCenter.help.acordion.description2" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "SolutionCenter.help.acordion.description3" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "SolutionCenter.help.acordion.description4" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "SolutionCenter.help.acordion.description5" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+        
+        
     "SolutionCenter.formations.title": "Formaciones",
     "SolutionCenter.formations.description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
     "SolutionCenter.videotutoriales.title": "Video tutoriales",
