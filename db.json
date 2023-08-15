@@ -134,11 +134,11 @@
     "SolutionCenter.help.acordion.title3" :  "¿Como administrar mis unidades de empaque?",
     "SolutionCenter.help.acordion.title4" :  "¿Que tipos de codigo hay y para que sirven?",
     "SolutionCenter.help.acordion.title5" :  "¿Que formato debe tener la imagen de mi producto?",
-    "SolutionCenter.help.acordion.description1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
-    "SolutionCenter.help.acordion.description2" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
-    "SolutionCenter.help.acordion.description3" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
-    "SolutionCenter.help.acordion.description4" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
-    "SolutionCenter.help.acordion.description5" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "SolutionCenter.help.acordion.description1" : "Lorem ipsum dolor sit amet",
+    "SolutionCenter.help.acordion.description2" :  "Lorem ipsum dolor sit amet, ",
+    "SolutionCenter.help.acordion.description3" :  "Lorem ipsum dolor sit amet,",
+    "SolutionCenter.help.acordion.description4" :  "Lorem ipsum dolor sit amet, ",
+    "SolutionCenter.help.acordion.description5" :  "Lorem ipsum dolor sit amet,",
         
         
     "SolutionCenter.formations.title": "Formaciones",
