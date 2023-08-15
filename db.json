@@ -2,8 +2,8 @@
   
    "clients": [
       {
-      "id": "1",
-      "auth.forgotPassword.title": "Recuperar Contraseña",
+    "id": "1",
+    "auth.forgotPassword.title": "Recuperar Contraseña",
     "auth.forgotPassword.label.user": "Usuario",
     "auth.login.title": "Administrador de códigos GS1 Colombia",
     "auth.login.description": "consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla",
@@ -138,29 +138,14 @@
     "SolutionCenter.help.acordion.description2" :  "Lorem ipsum dolor sit amet, ",
     "SolutionCenter.help.acordion.description3" :  "Lorem ipsum dolor sit amet,",
     "SolutionCenter.help.acordion.description4" :  "Lorem ipsum dolor sit amet, ",
-    "SolutionCenter.help.acordion.description5" :  "Lorem ipsum dolor sit amet,",
-        
-        
+    "SolutionCenter.help.acordion.description5" :  "Lorem ipsum dolor sit amet,",  
     "SolutionCenter.formations.title": "Formaciones",
     "SolutionCenter.formations.description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
     "SolutionCenter.videotutoriales.title": "Video tutoriales",
     "SolutionCenter.videotutoriales.description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-      },
-      
-      {
-      "id": "4",
-      "name": "Sudoku",
-      "version":"1.1.7",
-       "message":"<h1>Hola mundo</h1>",
-        "notifications":[
-           {
-              "id":1,
-              "title":"titulo",
-              "body" : "Hola tenemos una nueva actualizacion",
-              "icon":""
-           }
-        ]
       }
+      
+      
    ]
  
  
