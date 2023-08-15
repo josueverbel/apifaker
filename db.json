@@ -122,7 +122,10 @@
     "CodeDialing.codeList./massiveDialing.labelQuantity": "Tienes {} códigos disponibles para asignar",
     "CodeDialing.codeList./massiveDialing.subTitle": "Asignación de códigos de forma  masiva en este modulo",
     "CodeDialing.codeList./massiveDialing.btnDownload": "Descargar plantilla de excel",
-    "CodeDialing.codeList./massiveDialing.btnUploap": "Cargar plantilla de excel"
+    "CodeDialing.codeList./massiveDialing.btnUploap": "Cargar plantilla de excel",
+
+    "SolutionCenter.formations.title": "Formaciones",
+    "SolutionCenter.formations.title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
       },
       
       {
